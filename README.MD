@@ -1,4 +1,4 @@
-# Site acessível sobre Tropicália
+ # Site acessível sobre Tropicália
 # Sobre
 Refatoração de um site implementando recursos de
 acessibilidade no html, css e JS.
